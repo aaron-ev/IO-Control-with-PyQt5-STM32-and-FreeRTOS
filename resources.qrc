@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/build.png</file>
+    <file>img/circularClock.png</file>
+    <file>img/clear.png</file>
+    <file>img/clk.png</file>
+    <file>img/compare.png</file>
+    <file>img/configurator.png</file>
+    <file>img/copy.png</file>
+    <file>img/developer.png</file>
+    <file>img/features.png</file>
+    <file>img/folder.png</file>
+    <file>img/fontSize.png</file>
+    <file>img/freq.png</file>
+    <file>img/freq2.png</file>
+    <file>img/getTime.png</file>
+    <file>img/help.png</file>
+    <file>img/icon.ico</file>
+    <file>img/icon_deprecated.ico</file>
+    <file>img/info.png</file>
+    <file>img/mainWindow.png</file>
+    <file>img/mainWindowLightTheme.png</file>
+    <file>img/off.png</file>
+    <file>img/on.png</file>
+    <file>img/openFolder.png</file>
+    <file>img/play.png</file>
+    <file>img/powerOff.png</file>
+    <file>img/powerOn.png</file>
+    <file>img/ram.png</file>
+    <file>img/readonly.png</file>
+    <file>img/refresh.png</file>
+    <file>img/remotePc.png</file>
+    <file>img/report.png</file>
+    <file>img/resync.png</file>
+    <file>img/save.png</file>
+    <file>img/serialPort.png</file>
+    <file>img/setTime.png</file>
+    <file>img/settings.png</file>
+    <file>img/stats.png</file>
+    <file>img/stop.png</file>
+    <file>img/version.png</file>
+    <file>img/vscode.png</file>
+    <file>img/warning.png</file>
+    <file>img/zip.png</file>
+  </qresource>
+</RCC>
